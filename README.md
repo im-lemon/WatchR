@@ -16,5 +16,5 @@ TUI (Has instructions.)
 CLI:
 
 ```bash
-python CLI.py -m YouTube https://www.youtube.com/link_to_video_here/
+python -m App.TUI (or CLI) YouTube https://www.youtube.com/link_to_video_here/
 ```
